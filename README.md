@@ -4,7 +4,7 @@ My personal CV made with `HTML`, `CSS` and pure `JS`.
 
 ## 🎞 Live Preview
 
-[andreiilinca.github.io](https://andreiilinca.github.io/)
+[andreiilinca.github.io/teams-networking/](https://andreiilinca.github.io/teams-networking/)
 
 ## 📋 Developer Notes
 
